@@ -1,5 +1,13 @@
 # Changelog
 
+## 6.35.1 (2026-04-28)
+
+Full Changelog: [v6.35.0...v6.35.1](https://github.com/openai/openai-node/compare/v6.35.0...v6.35.1)
+
+### Chores
+
+* **internal:** codegen related update ([f184586](https://github.com/openai/openai-node/commit/f184586fbcb8c7c07bf439455d6317aba62719ec))
+
 ## 6.35.0 (2026-04-28)
 
 Full Changelog: [v6.34.0...v6.35.0](https://github.com/openai/openai-node/compare/v6.34.0...v6.35.0)
